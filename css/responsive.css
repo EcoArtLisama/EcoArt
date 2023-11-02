@@ -130,8 +130,23 @@
     #DisplayMobile a{
         cursor: pointer;
     }
-}
+    .imagenes2{
+        flex-direction: column;
+    }
+    .imagenes2 img{
+        margin: 15px 0 ;
+    }
 
+}
+.imagenes2{
+    display: flex;
+    justify-content: center;
+}
+.imagesmorta{
+    display: flex;
+    justify-content: center;
+
+}
 
 
 
